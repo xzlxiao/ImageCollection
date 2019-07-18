@@ -8,6 +8,6 @@ ImageCollection
 
 2 依赖库
 -------------------
-opencv3
-librealsense
-qt5
+opencv3  
+librealsense  
+qt5  
